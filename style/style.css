@@ -90,7 +90,10 @@ span:active{
 }
 .one{
     display: flex;
-    transform: translateY(-60px);
+    /* transform: translateY(-60px); */
+    position: absolute;
+    top:400px;
+
     
 }
 .one span{
@@ -98,8 +101,9 @@ span:active{
 }
 .zero{
     display: flex;
-    transform: translateY(-60px);
-
+    /* transform: translateY(-60px); */
+    position: absolute;
+    top: 460px;
 }
 .zero span{
     margin-right: 15px;
