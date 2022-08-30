@@ -91,7 +91,7 @@ span:active{
 .one{
     display: flex;
     transform: translateY(-60px);
-    
+
 }
 .one span{
     margin-right: 15px;
@@ -99,7 +99,7 @@ span:active{
 .zero{
     display: flex;
     transform: translateY(-60px);
-
+    
 }
 .zero span{
     margin-right: 15px;
